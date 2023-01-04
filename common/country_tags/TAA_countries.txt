@@ -1,0 +1,1 @@
+QIN = "countries/Qing.txt" #청
