@@ -10,7 +10,6 @@ state=
 	{
 		owner = QIN
 		add_core_of = QIN
-		add_core_of = PRC
 		victory_points = {
 			1069 3 
 		}
