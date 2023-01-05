@@ -1,0 +1,411 @@
+bookmarks = {
+	bookmark = {
+		name = "GATHERING_STORM_NAME"
+		desc = "GATHERING_STORM_DESC"
+		date = 1936.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "GER"
+		default = yes
+		"ENG"={
+			history = "USA_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"GER"={
+			history = "GER_GATHERING_STORM_DESC"
+			ideology = neutrality
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"AUS"={
+			history = "AST_GATHERING_STORM_DESC"
+			ideology = neutrality
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"HUN"={
+			history = "HUN_GATHERING_STORM_DESC"
+			ideology = neutrality
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"QIN"={
+			history = "QIN_GATHERING_STORM_DESC"
+			ideology = neutrality
+			ideas = {
+			}	
+			focuses = {
+			}			
+		}
+		"SOV"={
+			history = "SOV_GATHERING_STORM_DESC"
+			ideology = neutrality
+			ideas = {
+			}
+			focuses = {
+			}	
+		}
+
+
+
+		# minors from DLC ####
+		"USA"={
+			minor = yes
+			history = ""
+			ideology = democratic
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"CAN"={
+			minor = yes
+			history = ""
+			ideology = democratic
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"RAJ"={
+			minor = yes
+			history = ""
+			ideology = democratic
+			ideas = {
+				
+			}
+			focuses = {
+			}
+		}
+		"SAF"={
+			minor = yes
+			history = ""
+			ideology = democratic
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"POL"={
+			minor = yes
+			history = ""
+			ideology = neutrality
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"SWE"={
+			minor = yes
+			history = ""
+			ideology = neutrality
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"DEN"={
+			minor = yes
+			history = ""
+			ideology = neutrality
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"CZE"={
+			minor = yes
+			history = ""
+			ideology = neutrality
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"GAL"={
+			minor = yes
+			history = ""
+			ideology = neutrality
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"BOS"={
+			minor = yes
+			history = ""
+			ideology = neutrality
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"CRO"={
+			minor = yes
+			history = ""
+			ideology = neutrality
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"ITA"={
+			minor = yes
+			history = ""
+			ideology = neutrality
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"YUG"={
+			minor = yes
+			history = ""
+			ideology = neutrality
+			ideas = {
+			}
+			focuses = {
+			}
+		}		
+		"KOR"={
+			minor = yes
+			history = ""
+			ideology = neutrality
+			ideas = {
+			}
+			focuses = {
+			}
+		}		
+		"JAP"={
+			minor = yes
+			history = ""
+			ideology = neutrality
+			ideas = {
+			}
+			focuses = {
+			}
+		}		
+		"MON"={
+			minor = yes
+			history = ""
+			ideology = neutrality
+			ideas = {
+			}
+			focuses = {
+			}
+		}		
+		"PER"={
+			minor = yes
+			history = ""
+			ideology = neutrality
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		
+		"AFG"={
+			minor = yes
+			history = ""
+			ideology = neutrality
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+
+		"HOL"={
+			minor = yes
+			history = ""
+			ideology = democratic
+			ideas = {
+				HOL_wilhelmina
+				HOL_shell_shocked_spectator_5
+				HOL_de_crisisjaren_5
+			}
+			focuses = {
+				HOL_continue_the_war_in_batavia
+				HOL_liberation
+				HOL_prepare_the_inundation_lines
+			}
+		}
+
+		"SPR"={
+			minor = yes
+			history = ""
+			ideology = democratic
+			ideas = {
+				SPR_military_disloyalty
+				SPA_carlism_1
+				SPR_political_violence
+			}
+			focuses = {
+				SPA_caudillo_of_spain
+				SPA_no_compromise_on_carlist_ideals
+				SPR_anarchism_knows_no_borders
+			}
+		}
+
+		"FRA"={
+			minor = yes
+			history = ""
+			ideology = democratic
+			ideas = {
+				POR_unstable_republic
+				POR_unreliable_army
+			}
+			focuses = {
+				POR_estado_novo
+				POR_workers_of_iberia_unite
+				POR_luso_tropicalism
+			}
+		}
+		# "---"={
+		# 	history = "OTHER_GATHERING_STORM_DESC"
+		# 	minor = yes
+		# }
+		# "ENG"={
+		# 	minor = yes
+		# 	history = "CAN_GATHERING_STORM_DESC"
+		# 	ideology = democratic
+		# 	ideas = {
+		# 		CAN_great_depression_1
+		# 		CAN_conscription_crisis
+		# 	}
+		# 	focuses = {
+		# 		CAN_skewer_the_eagle
+		# 		CAN_north_american_alliance
+		# 		CAN_join_comintern
+		# 	}
+		# }
+		# "FRA"={
+		# 	minor = yes
+		# 	history = "NZL_GATHERING_STORM_DESC"
+		# 	ideology = democratic
+		# 	ideas = {
+				
+		# 	}
+		# 	focuses = {
+		# 		NZL_bob_semple_tank
+		# 		NZL_independent_new_zealand
+		# 		NZL_maori_volunteers
+		# 	}
+		# }
+		# "CAN"={
+		# 	minor = yes
+		# 	history = ""
+		# 	ideology = democratic
+		# 	ideas = {
+		# 	}
+		# 	focuses = {
+		# 	}
+		# }
+		# "POL"={
+		# 	minor = yes
+		# 	history = ""
+		# 	ideology = democratic
+		# 	ideas = {
+		# 	}
+		# 	focuses = {
+		# 	}
+		# }
+		# "ITA"={
+		# 	minor = yes
+		# 	history = ""
+		# 	ideology = democratic
+		# 	ideas = {
+		# 	}
+		# 	focuses = {
+		# 	}
+		# }
+		# "CZE"={
+		# 	minor = yes
+		# 	history = ""
+		# 	ideology = democratic
+		# 	ideas = {
+		# 	}
+		# 	focuses = {
+		# 	}
+		# }
+		# "CRO"={
+		# 	minor = yes
+		# 	history = ""
+		# 	ideology = democratic
+		# 	ideas = {
+		# 	}
+		# 	focuses = {
+		# 	}
+		# }
+		# "BOS"={
+		# 	minor = yes
+		# 	history = ""
+		# 	ideology = democratic
+		# 	ideas = {
+		# 	}
+		# 	focuses = {
+		# 	}
+		# }
+		# "GAL"={
+		# 	minor = yes
+		# 	history = ""
+		# 	ideology = democratic
+		# 	ideas = {
+		# 	}
+		# 	focuses = {
+		# 	}
+		# }
+		# "KOR"={
+		# 	minor = yes
+		# 	history = ""
+		# 	ideology = democratic
+		# 	ideas = {
+		# 	}
+		# 	focuses = {
+		# 	}
+		# }
+		# "JAP"={
+		# 	minor = yes
+		# 	history = ""
+		# 	ideology = democratic
+		# 	ideas = {
+		# 	}
+		# 	focuses = {
+		# 	}
+		# }
+		# "MON"={
+		# 	minor = yes
+		# 	history = ""
+		# 	ideology = democratic
+		# 	ideas = {
+		# 	}
+		# 	focuses = {
+		# 	}
+		# }
+		# "AFG"={
+		# 	minor = yes
+		# 	history = ""
+		# 	ideology = democratic
+		# 	ideas = {
+		# 	}
+		# 	focuses = {
+		# 	}
+		# }
+		# "---"={
+		# 	history = "OTHER_GATHERING_STORM_DESC"
+		# 	minor = yes
+		# }
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}
