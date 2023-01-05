@@ -104,7 +104,7 @@ bookmarks = {
 			focuses = {
 			}
 		}
-		"SWE"={
+		"BUL"={
 			minor = yes
 			history = ""
 			ideology = neutrality
@@ -238,23 +238,6 @@ bookmarks = {
 				HOL_prepare_the_inundation_lines
 			}
 		}
-
-		"SPR"={
-			minor = yes
-			history = ""
-			ideology = democratic
-			ideas = {
-				SPR_military_disloyalty
-				SPA_carlism_1
-				SPR_political_violence
-			}
-			focuses = {
-				SPA_caudillo_of_spain
-				SPA_no_compromise_on_carlist_ideals
-				SPR_anarchism_knows_no_borders
-			}
-		}
-
 		"FRA"={
 			minor = yes
 			history = ""
