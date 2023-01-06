@@ -165,3 +165,5 @@ set_popularities = {
 	communism = 5
 	fascism = 5
 }
+recruit_character = GER_Louis_Ferdinand
+recruit_character = GER_Kurt_Georg_Kiesinger

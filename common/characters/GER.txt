@@ -1,0 +1,40 @@
+characters={
+	GER_Louis_Ferdinand={
+		name=GER_Louis_Ferdinand
+		portraits={
+			civilian={
+				large="gfx/leaders/GER/GFX_GER_Louis_Ferdinand.png"
+				small="gfx/leaders/GER/GFX_GER_Louis_Ferdinand_advisor.png"
+			}
+		}
+		advisor={
+			slot = head_of_government
+			idea_token = Louis_Ferdinand
+			ledger = civilian
+			allowed = {
+				original_tag = GER
+			}
+			available = {
+
+			}
+			traits = {
+			}
+			cost = 150
+		}
+	}
+	GER_Kurt_Georg_Kiesinger={
+		name=GER_Kurt_Georg_Kiesinger
+		portraits={
+			civilian={
+				large="gfx/leaders/GER/GFX_GER_Kurt_Georg_Kiesinger.png"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			desc="Kiesinger_DESC"
+			traits={  }
+			expire="2000.1.1.1"
+			id=-1
+		}
+	}
+}
