@@ -53,7 +53,7 @@ guiTypes = {
 
 		containerWindowType = {
 			name = "chart_explanation"
-			position = { x = 300 y = 275 }
+			position = { x = 305 y = 255 }
 			size = { width = 240 height = 300 }
 			clipping = yes
 			margin = { top = 0 bottom = 0}
@@ -81,13 +81,13 @@ guiTypes = {
 			iconType = {
 				name = "chart"
 				spriteType = "GFX_political_chart"
-				position = { x = 28 y = -25 }
+				position = { x = 33 y = -50 }
 			}
 			
 			iconType ={
 				name ="pol_view_bg"
 				spriteType = "GFX_pol_piechart_overlay_63x63"
-				position = { x= -2 y = -28 }
+				position = { x= 2 y = -53 }
 			}
 		}
 		
