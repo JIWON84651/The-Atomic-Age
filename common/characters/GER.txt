@@ -30,7 +30,7 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=despotism
+			ideology=constitutional_monarchy
 			desc="Kiesinger_DESC"
 			traits={  }
 			expire="2000.1.1.1"

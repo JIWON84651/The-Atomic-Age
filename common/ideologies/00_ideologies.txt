@@ -183,6 +183,8 @@ ideologies = {
 		types = {
 			neutrality_sub = {
 			}
+			constitutional_monarchy = {
+			}
 		}
 
 		dynamic_faction_names = {
