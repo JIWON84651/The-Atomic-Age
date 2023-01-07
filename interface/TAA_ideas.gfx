@@ -1,10 +1,10 @@
 spriteTypes = {	
 	spriteType = {
-		name = "GFX_remnants_of_the_old_days"
+		name = "GFX_idea_remnants_of_the_old_days"
 		texturefile = "gfx/interface/ideas/remnants_of_the_old_days.png"
     }
 	spriteType = {
-		name = "GFX_Belle_Efolk_Despair"
+		name = "GFX_idea_Belle_Efolk_Despair"
 		texturefile = "gfx/interface/ideas/Belle_Efolk_Despair.png"
     }
 }

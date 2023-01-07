@@ -1,0 +1,39 @@
+characters={
+	USA_George_Romney={
+		name=George_Romney
+		portraits={
+			civilian={
+				small="gfx/leaders/USA/GFX_USA_George_Romney.png"
+			}
+		}
+		advisor={
+			slot = head_of_government
+			idea_token = George_Romney
+			ledger = civilian
+			allowed = {
+				original_tag = USA
+			}
+			available = {
+
+			}
+			traits = {
+			}
+			cost = 150
+		}
+	}
+	USA_Howard_Baker={
+		name=Howard_Baker
+		portraits={
+			civilian={
+				large="gfx/leaders/USA/GFX_USA_Howard_Baker.png"
+			}
+		}
+		country_leader={
+			ideology=conservatism_sub
+			desc="Howard_Baker_DESC"
+			traits={  }
+			expire="2000.1.1.1"
+			id=-1
+		}
+	}
+}

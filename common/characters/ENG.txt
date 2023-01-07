@@ -1,0 +1,39 @@
+characters={
+	ENG_Elizabeth_2={
+		name=Elizabeth_2
+		portraits={
+			civilian={
+				small="gfx/leaders/ENG/GFX_ENG_Elizabeth_2.png"
+			}
+		}
+		advisor={
+			slot = head_of_government
+			idea_token = Elizabeth_2
+			ledger = civilian
+			allowed = {
+				original_tag = ENG
+			}
+			available = {
+
+			}
+			traits = {
+			}
+			cost = 150
+		}
+	}
+	ENG_Margaret_Thatcher={
+		name=Margaret_Thatcher
+		portraits={
+			civilian={
+				large="gfx/leaders/ENG/GFX_ENG_Margaret_Thatcher.png"
+			}
+		}
+		country_leader={
+			ideology=conservatism_sub
+			desc="Margaret_Thatcher_DESC"
+			traits={  }
+			expire="2000.1.1.1"
+			id=-1
+		}
+	}
+}

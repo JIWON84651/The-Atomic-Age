@@ -2,10 +2,8 @@ ideas = {
 	country = {
 		remnants_of_the_old_days = {
 			allowed = {
-				always = no
+				original_tag = KOR
 			}
-
-			removal_cost = -1
 			
 			modifier = {
 				drift_defence_factor = 0.5
@@ -14,10 +12,8 @@ ideas = {
 		
 		Belle_Efolk_Despair = {
 			allowed = {
-				always = no
+				original_tag = KOR
 			}
-
-			removal_cost = -1
 			
 			modifier = {
 				stability_factor = -0.15
