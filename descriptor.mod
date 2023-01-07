@@ -1,6 +1,7 @@
 replace_path="history/countries"
 replace_path="history/states"
 replace_path="events"
+replace_path="common/decisions"
 version="TAA"
 tags={
 	"Ideologies"
