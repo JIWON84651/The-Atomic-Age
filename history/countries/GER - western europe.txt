@@ -160,10 +160,11 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 20
-	neutrality = 70
-	communism = 5
-	fascism = 5
+	democratic = 15
+	neutrality = 45
+	conservatism = 30
+	socialism = 5
+	extremism = 5
 }
 recruit_character = GER_Louis_Ferdinand
 recruit_character = GER_Kurt_Georg_Kiesinger

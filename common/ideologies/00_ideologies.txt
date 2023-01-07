@@ -229,7 +229,7 @@ ideologies = {
 		dynamic_faction_names = {
 		}
 
-		color = { 200 200 200 }
+		color = { 80 80 80 }
 
 
 		war_impact_on_world_tension = 0.25		#no major danger
@@ -270,6 +270,8 @@ ideologies = {
 
 		dynamic_faction_names = {
 		}
+
+		color = { 20 20 20 }
 
 		war_impact_on_world_tension = 1.0			#evil!
 		faction_impact_on_world_tension = 1.0
