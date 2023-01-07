@@ -9,5 +9,8 @@ tags={
 	"National Focuses"
 	"Technologies"
 }
+dependencies={
+	"Korean Language"
+}
 name="The-Atomic-Age"
 supported_version="1.12.7"
