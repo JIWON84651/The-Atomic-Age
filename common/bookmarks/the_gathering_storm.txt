@@ -18,6 +18,8 @@ bookmarks = {
 			history = "TAA_GER_GATHERING_STORM_DESC"
 			ideology = neutrality
 			ideas = {
+				remnants_of_the_old_days
+				Belle_Efolk_Despair
 			}
 			focuses = {
 			}

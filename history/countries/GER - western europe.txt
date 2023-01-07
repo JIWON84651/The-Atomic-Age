@@ -169,7 +169,8 @@ set_popularities = {
 recruit_character = GER_Louis_Ferdinand
 recruit_character = GER_Kurt_Georg_Kiesinger
 add_ideas = {
-	GER_Louis_Ferdinand
+	remnants_of_the_old_days
+	Belle_Efolk_Despair
 }
 create_faction = 삼제동맹
 add_to_faction = AUS
