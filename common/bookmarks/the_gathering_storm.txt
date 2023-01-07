@@ -7,7 +7,7 @@ bookmarks = {
 		default_country = "GER"
 		default = yes
 		"ENG"={
-			history = "USA_GATHERING_STORM_DESC"
+			history = "TAA_ENG_GATHERING_STORM_DESC"
 			ideology = democratic
 			ideas = {
 			}
@@ -62,7 +62,7 @@ bookmarks = {
 		# minors from DLC ####
 		"USA"={
 			minor = yes
-			history = ""
+			history = "TAA_USA_GATHERING_STORM_DESC"
 			ideology = democratic
 			ideas = {
 			}

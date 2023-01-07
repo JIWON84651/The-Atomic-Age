@@ -306,7 +306,7 @@ ideologies = {
 		ai_neutral = yes #
 		ai_ideology_wanted_units_factor = 1.15
 	}
-	extremism = {
+	fascism = {
 
 		types = {
 			extremism_sub = {

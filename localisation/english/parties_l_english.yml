@@ -1,25 +1,33 @@
 ﻿l_english:
  communism:0 "공산주의"
+ communism_desc:0 "공산주의"
  communism_sub:0 "공산주의"
 
  socialism:0 "사회주의"
+ socialism_desc:0 "사회주의"
  socialism_sub:0 "사회주의"
 
  social_democracy:0 "사회민주주의"
+ social_democracy_desc:0 "사회민주주의"
  social_democracy_sub:0 "사회민주주의"
 
  democratic:0 "자유민주주의"
+ democratic_desc:0 "자유민주주의"
  liberal_sub:0 "자유민주주의"
 
  conservatism:0 "보수민주주의"
+ conservatism_desc:0 "보수민주주의"
  conservatism_sub:0 "보수민주주의"
 
  neutrality:0 "권위주의"
+ neutrality_desc:0 "권위주의"
  neutrality_sub:0 "권위주의"
  constitutional_monarchy:0 "입헌군주정"
 
  absolutism:0 "전제주의"
+ absolutism_desc:0 "전제주의"
  absolutism_sub:0 "전제주의"
 
- extremism:0 "극단주의"
+ fascism:0 "극단주의"
+ fascism_desc:0 "극단주의"
  extremism_sub:0 "극단주의"

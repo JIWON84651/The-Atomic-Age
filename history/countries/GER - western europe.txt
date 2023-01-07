@@ -164,7 +164,7 @@ set_popularities = {
 	neutrality = 45
 	conservatism = 30
 	socialism = 5
-	extremism = 5
+	fascism = 5
 }
 recruit_character = GER_Louis_Ferdinand
 recruit_character = GER_Kurt_Georg_Kiesinger

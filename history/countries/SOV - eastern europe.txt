@@ -16,5 +16,5 @@ set_popularities = {
 	conservatism = 20
 	socialism = 15
 	communism = 10
-	extremism = 5
+	fascism = 5
 }
