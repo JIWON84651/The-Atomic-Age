@@ -37,3 +37,17 @@
  CZE_AUS:0 "보헤미아"
  CZE_AUS_DEF:0 "보헤미아"
  CZE_AUS_ADJ:0 "보헤미아"
+
+ KOR_neutrality:0 "대한제국"
+ KOR_neutrality_DEF:0 "대한제국"
+ KOR_neutrality_ADJ:0 "대한제국"
+ KOR:0 "대한제국"
+ KOR_DEF:0 "대한제국"
+ KOR_ADJ:0 "대한제국"
+ 
+ SOV_neutrality:0 "러시아 제국"
+ SOV_neutrality_DEF:0 "러시아 제국"
+ SOV_neutrality_ADJ:0 "러시아 제국"
+ SOV:0 "러시아 제국"
+ SOV_DEF:0 "러시아 제국"
+ SOV_ADJ:0 "러시아 제국"
