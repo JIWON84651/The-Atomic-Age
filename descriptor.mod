@@ -1,5 +1,6 @@
-replace_path="gfx/loadingscreens"
 replace_path="history/countries"
+replace_path="history/states"
+replace_path="events"
 version="TAA"
 tags={
 	"Ideologies"
