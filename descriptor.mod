@@ -7,4 +7,5 @@ tags={
 }
 replace_path="gfx/loadingscreens"
 name="The-Atomic-Age"
+replace_path="history/countries"
 supported_version="1.12.7"

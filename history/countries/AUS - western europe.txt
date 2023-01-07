@@ -24,5 +24,3 @@ set_autonomy = {
 	target = GAL
 	autonomous_state = autonomy_puppet
 }
-create_faction = 오스트리아-헝가리
-add_to_faction = HUN

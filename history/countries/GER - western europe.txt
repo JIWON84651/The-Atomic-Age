@@ -170,3 +170,7 @@ recruit_character = GER_Kurt_Georg_Kiesinger
 add_ideas = {
 	GER_Louis_Ferdinand
 }
+create_faction = 삼제동맹
+add_to_faction = AUS
+add_to_faction = HUN
+add_to_faction = SOV
