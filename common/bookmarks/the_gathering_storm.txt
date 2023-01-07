@@ -15,7 +15,7 @@ bookmarks = {
 			}
 		}
 		"GER"={
-			history = "GER_GATHERING_STORM_DESC"
+			history = "TAA_GER_GATHERING_STORM_DESC"
 			ideology = neutrality
 			ideas = {
 			}
