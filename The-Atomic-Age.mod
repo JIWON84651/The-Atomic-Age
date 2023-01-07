@@ -1,4 +1,5 @@
-version="test"
+replace_path="history/countries"
+version="TAA"
 tags={
 	"Ideologies"
 	"Graphics"
