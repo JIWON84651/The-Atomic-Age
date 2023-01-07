@@ -52,7 +52,6 @@ ideologies = {
 	}
 	socialism = {
 		types = {
-
 			socialism_sub = {
 			}
 		}
@@ -90,7 +89,6 @@ ideologies = {
 
 		types = {
 			liberal_sub = {
-
 			}
 		}
 
@@ -266,22 +264,7 @@ ideologies = {
 	extremism = {
 
 		types = {
-			nazism = {
-			}
-			
 			extremism_sub = {
-			}
-
-			gen_nazism = {
-			}
-
-			fascism_ideology = {
-			}
-
-			falangism = {
-			}
-
-			rexism = {
 			}
 		}
 
