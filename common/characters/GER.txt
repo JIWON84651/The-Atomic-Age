@@ -1,6 +1,6 @@
 characters={
 	GER_Louis_Ferdinand={
-		name=GER_Louis_Ferdinand
+		name=Louis_Ferdinand
 		portraits={
 			civilian={
 				large="gfx/leaders/GER/GFX_GER_Louis_Ferdinand.png"
@@ -23,7 +23,7 @@ characters={
 		}
 	}
 	GER_Kurt_Georg_Kiesinger={
-		name=GER_Kurt_Georg_Kiesinger
+		name=Kurt_Georg_Kiesinger
 		portraits={
 			civilian={
 				large="gfx/leaders/GER/GFX_GER_Kurt_Georg_Kiesinger.png"
