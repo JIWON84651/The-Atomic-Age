@@ -124,5 +124,5 @@ set_popularities = {
 recruit_character = USA_George_Romney
 recruit_character = USA_Howard_Baker
 add_ideas = {
-	George_Romney
+	Howard_Baker
 }
