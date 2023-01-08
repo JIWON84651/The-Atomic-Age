@@ -31,3 +31,28 @@
  fascism:0 "극단주의"
  fascism_desc:0 "극단주의"
  extremism_sub:0 "극단주의"
+
+ #ENG
+ ENG_communism_party:0 ""
+ ENG_communism_party_long:0 "" 
+
+ ENG_socialism_party:0 ""
+ ENG_socialism_party_long:0 ""
+
+ ENG_social_democracy_party:0 ""
+ ENG_social_democracy_party_long:0 ""
+
+ ENG_democratic_party:0 ""
+ ENG_democratic_party_long:0 ""
+
+ ENG_conservatism_party:0 ""
+ ENG_conservatism_party_long:0 ""
+
+ ENG_neutrality_party:0 ""
+ ENG_neutrality_party_long:0 ""
+
+ ENG_absolutism_party:0 ""
+ ENG_absolutism_party_long:0 ""
+
+ ENG_fascism_party:0 ""
+ ENG_fascism_party_long:0 ""
