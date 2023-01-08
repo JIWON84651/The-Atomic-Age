@@ -2,7 +2,7 @@ ideas = {
 	country = {
 		remnants_of_the_old_days = {
 			allowed = {
-				original_tag = KOR
+				original_tag = GER
 			}
 			
 			modifier = {
