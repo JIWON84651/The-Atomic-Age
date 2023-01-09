@@ -1,0 +1,17 @@
+﻿capital = 3
+
+set_research_slots = 3
+set_stability = 0.5
+set_war_support = 0.5
+
+set_politics = {
+	ruling_party = neutrality
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	democratic = 20
+	neutrality = 70
+	communism = 5
+	fascism = 5
+}
