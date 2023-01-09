@@ -37,8 +37,8 @@ QIN = {
 	color_ui = rgb { 224 139 5 }
 }
 ENG = {
-	color = rgb { 201 56 93 }
-	color_ui = rgb { 255 73 121 }
+	color = rgb { 180 0 0 }
+	color_ui = rgb { 255 0 0 }
 }
 SWE = {
 	color = rgb { 36 132 247 }

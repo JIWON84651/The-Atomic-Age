@@ -1,0 +1,230 @@
+focus_tree = {
+	id = George_Romney_focus_tree
+	country = {
+		factor = 10
+		modifier = {
+			add = 10
+			tag = USA
+		}
+	}
+	default = no
+	focus = {
+		id = Romneynomics
+		icon = GFX_goal_unknown
+		cost = 10.00
+		x = 6
+		y = 0
+
+	}
+	focus = {
+		id = Administration_of_Romney
+		icon = GFX_Administration_of_Romney
+		cost = 10.00
+		x = 15
+		y = 0
+
+	}
+	focus = {
+		id = almighty_dollar
+		icon = GFX_goal_unknown
+		cost = 10.00
+		x = 22
+		y = 0
+
+	}
+	focus = {
+		id = neoliberal_economy
+		icon = GFX_goal_unknown
+		cost = 10.00
+		prerequisite = {
+			focus = Romneynomics
+		}
+		mutually_exclusive = {
+			focus = Consensus_and_Efficiency_Pursuing
+			focus = traditional_Keynesianism
+		}
+		x = 3
+		y = 1
+
+	}
+	focus = {
+		id = Consensus_and_Efficiency_Pursuing
+		icon = GFX_goal_unknown
+		cost = 10.00
+		prerequisite = {
+			focus = Romneynomics
+		}
+		mutually_exclusive = {
+			focus = neoliberal_economy
+			focus = traditional_Keynesianism
+		}
+		x = 6
+		y = 1
+
+	}
+	focus = {
+		id = traditional_Keynesianism
+		icon = GFX_goal_unknown
+		cost = 10.00
+		prerequisite = {
+			focus = Romneynomics
+		}
+		mutually_exclusive = {
+			focus = neoliberal_economy
+			focus = Consensus_and_Efficiency_Pursuing
+		}
+		x = 9
+		y = 1
+
+	}
+	focus = {
+		id = Republican_hardliners_first
+		icon = GFX_goal_unknown
+		cost = 10.00
+		prerequisite = {
+			focus = Administration_of_Romney
+		}
+		mutually_exclusive = {
+			focus = Rockefeller_Republican_First
+			focus = reasonable_centrist
+		}
+		x = 12
+		y = 1
+
+	}
+	focus = {
+		id = reasonable_centrist
+		icon = GFX_goal_unknown
+		cost = 10.00
+		prerequisite = {
+			focus = Administration_of_Romney
+		}
+		mutually_exclusive = {
+			focus = Rockefeller_Republican_First
+			focus = Republican_hardliners_first
+		}
+		x = 15
+		y = 1
+
+	}
+	focus = {
+		id = Rockefeller_Republican_First
+		icon = GFX_goal_unknown
+		cost = 10.00
+		prerequisite = {
+			focus = Administration_of_Romney
+		}
+		mutually_exclusive = {
+			focus = Republican_hardliners_first
+			focus = reasonable_centrist
+		}
+		x = 18
+		y = 1
+
+	}
+	focus = {
+		id = great_isolationism
+		icon = GFX_goal_unknown
+		cost = 10.00
+		prerequisite = {
+			focus = almighty_dollar
+		}
+		x = 22
+		y = 1
+
+	}
+	focus = {
+		id = With_a_good_voice
+		icon = GFX_goal_unknown
+		cost = 10.00
+		prerequisite = {
+			focus = almighty_dollar
+		}
+		x = 27
+		y = 1
+
+	}
+	focus = {
+		id = calculated_handshake
+		icon = GFX_goal_unknown
+		cost = 10.00
+		prerequisite = {
+			focus = With_a_good_voice
+		}
+		mutually_exclusive = {
+			focus = clenched_fist
+		}
+		x = 25
+		y = 2
+
+	}
+	focus = {
+		id = clenched_fist
+		icon = GFX_goal_unknown
+		cost = 10.00
+		prerequisite = {
+			focus = With_a_good_voice
+		}
+		mutually_exclusive = {
+			focus = calculated_handshake
+		}
+		x = 29
+		y = 2
+
+	}
+	focus = {
+		id = Romney_and_Banana
+		icon = GFX_goal_unknown
+		cost = 10.00
+		prerequisite = {
+			focus = clenched_fist
+		}
+		x = 29
+		y = 3
+
+	}
+	focus = {
+		id = Reconfirmation_of_Monroe_Doctrine
+		icon = GFX_goal_unknown
+		cost = 10.00
+		prerequisite = {
+			focus = Romney_and_Banana
+		}
+		x = 28
+		y = 4
+
+	}
+	focus = {
+		id = Strengthening_Control_of_Panama_Canal
+		icon = GFX_goal_unknown
+		cost = 10.00
+		prerequisite = {
+			focus = Reconfirmation_of_Monroe_Doctrine
+		}
+		x = 28
+		y = 5
+
+	}
+	focus = {
+		id = crackdown_on_anti_American_regime
+		icon = GFX_goal_unknown
+		cost = 10.00
+		prerequisite = {
+			focus = Romney_and_Banana
+		}
+		x = 30
+		y = 4
+
+	}
+	focus = {
+		id = Reaffirmation_of_Caribbean_hegemony
+		icon = GFX_goal_unknown
+		cost = 10.00
+		prerequisite = {
+			focus = crackdown_on_anti_American_regime
+		}
+		x = 30
+		y = 5
+
+	}
+}

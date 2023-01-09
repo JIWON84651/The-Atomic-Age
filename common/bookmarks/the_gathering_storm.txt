@@ -67,6 +67,7 @@ bookmarks = {
 			ideas = {
 			}
 			focuses = {
+				Administration_of_Romney
 			}
 		}
 		"CAN"={

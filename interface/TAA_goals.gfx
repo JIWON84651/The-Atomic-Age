@@ -1,0 +1,10 @@
+spriteTypes = {
+	SpriteType = {#템플릿
+		name = "GFX_"
+		texturefile = "gfx/interface/goals/.png"			
+	}
+	SpriteType = {
+		name = "GFX_Administration_of_Romney"
+		texturefile = "gfx/interface/goals/Administration_of_Romney.png"			
+	}
+}
