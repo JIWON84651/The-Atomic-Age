@@ -6,7 +6,7 @@ set_stability = 0.75
 set_war_support = 0.5
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = conservatism
 	election_frequency = 48
 	elections_allowed = no
 }

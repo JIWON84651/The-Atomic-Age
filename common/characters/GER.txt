@@ -30,7 +30,7 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=conservatism
+			ideology=conservatism_sub
 			desc="Kiesinger_DESC"
 			traits={  }
 			expire="2000.1.1.1"

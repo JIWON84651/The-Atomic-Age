@@ -27,7 +27,7 @@ characters={
 			idea_token = RUS_Vladimir_Putin_hog
 			ledger = civilian
 			allowed = {
-				original_tag = RUS
+				original_tag = SOV
 			}
 			available = {
 
