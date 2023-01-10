@@ -2,3 +2,7 @@ CZE_AUS = {
 	color = rgb { 194 198 215 }
 	color_ui = rgb { 255 255 255 }
 }
+SOV_RUS = {
+	color = rgb { 100 150 255 }
+	color_ui = rgb { 60 105 190 }
+}

@@ -1,0 +1,47 @@
+characters={
+	RUS_Boris_Yeltsin={
+		name=RUS_Boris_Yeltsin
+		portraits={
+			civilian={
+				large="gfx/leaders/RUS/GFX_RUS_Boris_Yeltsin.png"
+			}
+		}
+		country_leader={
+			ideology=conservatism_sub
+			desc="RUS_Boris_Yeltsin_DESC"
+			traits={  }
+			expire="2000.1.1.1"
+			id=-1
+		}
+	}
+	RUS_Vladimir_Putin={
+		name=RUS_Vladimir_Putin
+		portraits={
+			civilian={
+				small="gfx/leaders/RUS/GFX_RUS_Vladimir_Putin_hog.png"
+				large="gfx/leaders/RUS/GFX_RUS_Vladimir_Putin.png"
+			}
+		}
+		advisor={
+			slot = head_of_government
+			idea_token = RUS_Vladimir_Putin_hog
+			ledger = civilian
+			allowed = {
+				original_tag = RUS
+			}
+			available = {
+
+			}
+			traits = {
+			}
+			removal_cost = -1
+		}
+		country_leader={
+			ideology=Eurasianism
+			desc="RUS_Vladimir_Putin_DESC"
+			traits={  }
+			expire="2000.1.1.1"
+			id=-1
+		}
+	}
+}

@@ -28,9 +28,10 @@
  absolutism_desc:0 "전제주의"
  absolutism_sub:0 "전제주의"
 
- fascism:0 "극단주의"
- fascism_desc:0 "극단주의"
+ extremism:0 "극단주의"
+ extremism_desc:0 "극단주의"
  extremism_sub:0 "극단주의"
+ Eurasianism:0 "유라시아주의"
 
  #ENG
  ENG_communism_party:0 "영국 공산당"
@@ -54,5 +55,5 @@
 #  ENG_absolutism_party:0 ""
 #  ENG_absolutism_party_long:0 ""
 
-#  ENG_fascism_party:0 ""
-#  ENG_fascism_party_long:0 ""
+#  ENG_extremism_party:0 ""
+#  ENG_extremism_party_long:0 ""

@@ -1,4 +1,4 @@
-﻿capital = 608
+﻿capital = 219
 
 set_research_slots = 4
 set_convoys = 100
@@ -11,8 +11,12 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 25
-	neutrality = 60
+	democratic = 20
+	neutrality = 30
+	conservatism = 20
+	socialism = 15
 	communism = 10
 	extremism = 5
 }
+recruit_character = RUS_Boris_Yeltsin
+recruit_character = RUS_Vladimir_Putin

@@ -10,6 +10,7 @@ tags={
 }
 dependencies={
 	"Korean Language"
+	"Korean Language (Europa)"
 }
 name="The-Atomic-Age"
 supported_version="1.12.7"
