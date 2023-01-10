@@ -18,10 +18,10 @@ characters={
 		name=RUS_Vladimir_Putin
 		portraits={
 			civilian={
-				small="gfx/leaders/RUS/GFX_RUS_Vladimir_Putin_hog.png"
 				large="gfx/leaders/RUS/GFX_RUS_Vladimir_Putin.png"
 			}
 		}
+<<<<<<< Updated upstream
 		advisor={
 			slot = head_of_government
 			idea_token = RUS_Vladimir_Putin_hog
@@ -36,6 +36,8 @@ characters={
 			}
 			removal_cost = -1
 		}
+=======
+>>>>>>> Stashed changes
 		country_leader={
 			ideology=extremism_sub
 			desc="RUS_Vladimir_Putin_DESC"

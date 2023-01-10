@@ -6,7 +6,7 @@ set_stability = 0.75
 set_war_support = 0.3
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = extremism
 	election_frequency = 48
 	elections_allowed = no
 }
@@ -18,5 +18,5 @@ set_popularities = {
 	communism = 10
 	extremism = 5
 }
-recruit_character = RUS_Boris_Yeltsin
 recruit_character = RUS_Vladimir_Putin
+recruit_character = RUS_Boris_Yeltsin
