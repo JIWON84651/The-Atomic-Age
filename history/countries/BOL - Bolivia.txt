@@ -1,6 +1,5 @@
-﻿capital = 4
+﻿capital = 302
 
-oob = "AUS_1936"
 set_research_slots = 3
 set_stability = 0.5
 set_war_support = 0.5
@@ -15,12 +14,4 @@ set_popularities = {
 	neutrality = 70
 	communism = 5
 	fascism = 5
-}
-set_autonomy = {
-	target = CZE
-	autonomous_state = autonomy_puppet
-}
-set_autonomy = {
-	target = GAL
-	autonomous_state = autonomy_puppet
 }

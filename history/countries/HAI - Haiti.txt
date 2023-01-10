@@ -1,6 +1,6 @@
-﻿capital = 88
+﻿capital = 318
 
-set_research_slots = 2
+set_research_slots = 3
 set_stability = 0.5
 set_war_support = 0.5
 
@@ -11,5 +11,7 @@ set_politics = {
 }
 set_popularities = {
 	democratic = 20
-	neutrality = 80
+	neutrality = 70
+	communism = 5
+	fascism = 5
 }

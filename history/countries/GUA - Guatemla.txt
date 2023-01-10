@@ -1,5 +1,4 @@
-﻿capital = 43
-oob = "HUN_1936"
+﻿capital = 313
 
 set_research_slots = 3
 set_stability = 0.5
@@ -15,12 +14,4 @@ set_popularities = {
 	neutrality = 70
 	communism = 5
 	fascism = 5
-}
-set_autonomy = {
-	target = CRO
-	autonomous_state = autonomy_puppet
-}
-set_autonomy = {
-	target = BOS
-	autonomous_state = autonomy_puppet
 }
