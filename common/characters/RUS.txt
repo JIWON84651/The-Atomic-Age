@@ -37,7 +37,7 @@ characters={
 			removal_cost = -1
 		}
 		country_leader={
-			ideology=Eurasianism
+			ideology=extremism_sub
 			desc="RUS_Vladimir_Putin_DESC"
 			traits={  }
 			expire="2000.1.1.1"

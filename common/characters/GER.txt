@@ -9,7 +9,7 @@ characters={
 		}
 		advisor={
 			slot = head_of_government
-			idea_token = Louis_Ferdinand
+			idea_token = Louis_Ferdinand_hog
 			ledger = civilian
 			allowed = {
 				original_tag = GER
@@ -30,7 +30,7 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=constitutional_monarchy
+			ideology=conservatism
 			desc="Kiesinger_DESC"
 			traits={  }
 			expire="2000.1.1.1"
