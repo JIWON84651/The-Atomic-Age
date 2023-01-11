@@ -20,3 +20,9 @@ set_popularities = {
 	absolutism = 5
 	extremism = 0
 }
+set_autonomy = {
+	target = CRO
+}
+set_autonomy = {
+	target = BOS
+}
