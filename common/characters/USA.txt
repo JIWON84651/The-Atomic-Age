@@ -14,26 +14,4 @@ characters={
 			id=-1
 		}
 	}
-	USA_Howard_Baker={
-		name=Howard_Baker
-		portraits={
-			civilian={
-				small="gfx/leaders/USA/GFX_USA_Howard_Baker.png"
-			}
-		}
-		advisor={
-			slot = head_of_government
-			idea_token = Howard_Baker
-			ledger = civilian
-			allowed = {
-				original_tag = USA
-			}
-			available = {
-
-			}
-			traits = {
-			}
-			cost = 150
-		}
-	}
 }
