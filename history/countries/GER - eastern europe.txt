@@ -22,10 +22,9 @@ set_popularities = {
 }
 recruit_character = GER_Kurt_Georg_Kiesinger
 add_ideas = {
-	Louis_Ferdinand_hog
 }
 
-set_faction_name = 삼제동맹
+create_faction = 삼제동맹
 add_to_faction = AUS
 add_to_faction = HUN
 add_to_faction = SOV
