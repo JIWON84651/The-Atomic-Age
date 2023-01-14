@@ -1,7 +1,6 @@
 ideologies = {
-	communism = {
+	Communism = {
 		types = {
-
 			communism_sub = {
 			}
 
@@ -18,6 +17,15 @@ ideologies = {
 			}
 
 			anarchist_communism = {
+			}
+
+			revolutionary_front = {
+			}
+			
+			popular_front = {
+			}
+			
+			maoism = {
 			}
 		}
 
@@ -53,6 +61,18 @@ ideologies = {
 	socialism = {
 		types = {
 			socialism_sub = {
+			}
+
+			revolutionary_front = {
+			}
+			
+			popular_front = {
+			}
+			
+			agrarian_socialism = {
+			}
+			
+			syndicalism = {
 			}
 		}
 
@@ -130,7 +150,7 @@ ideologies = {
 		ai_democratic = yes # uses the democratic AI behaviour
 		ai_ideology_wanted_units_factor = 1.0 # multiplies threat impact on number of desired units by this value, defaults to 1.0. If at war, the larger of this value and NDefines::NAI::WANTED_UNITS_WAR_THREAT_FACTOR will be used instead
 	}
-	democratic = {
+	liberal_democracy = {
 
 		types = {
 			liberal_sub = {
@@ -221,11 +241,12 @@ ideologies = {
 		ai_democratic = yes # uses the democratic AI behaviour
 		ai_ideology_wanted_units_factor = 1.0 # multiplies threat impact on number of desired units by this value, defaults to 1.0. If at war, the larger of this value and NDefines::NAI::WANTED_UNITS_WAR_THREAT_FACTOR will be used instead
 	}
-	neutrality = {
+	authoritarianism = {
 
 		types = {
 			neutrality_sub = {
 			}
+			
 			constitutional_monarchy = {
 			}
 		}

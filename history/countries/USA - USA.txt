@@ -112,13 +112,13 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 24
-	neutrality = 13
+	liberal_democracy = 24
+	authoritarianism = 13
 	conservatism = 28
 	social_democracy = 19
 	extremism = 1
 	socialism = 8
-	communism = 5
+	Communism = 5
 	absolutism = 2
 }
 recruit_character = USA_George_Romney

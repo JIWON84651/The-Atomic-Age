@@ -6,17 +6,17 @@ set_stability = 0.75
 set_war_support = 0.3
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = authoritarianism
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	communism = 5
+	Communism = 5
 	socialism = 5
 	social_democracy = 15
-	democratic = 20
+	liberal_democracy = 20
 	conservatism = 25
-	neutrality = 25
+	authoritarianism = 25
 	absolutism = 5
 	extremism = 0
 }
