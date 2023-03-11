@@ -2,7 +2,7 @@ replace_path="history/states"
 replace_path="history/countries"
 replace_path="localisation"
 replace_path="events"
-version="TAA"
+version="TAA-dev"
 tags={
 	"Ideologies"
 	"Graphics"
