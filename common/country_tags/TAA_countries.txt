@@ -1,2 +1,5 @@
-QIN = "countries/asia.txt" #청
-GAL = "countries/eastern europe.txt" #갈리치아-로도메리아
+#--- = "countries/대륙.txt"
+#commonwealth
+#south america
+#eastern europe
+#western europe
