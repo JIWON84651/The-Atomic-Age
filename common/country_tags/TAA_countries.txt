@@ -1,5 +1,0 @@
-#--- = "countries/대륙.txt"
-#commonwealth
-#south america
-#eastern europe
-#western europe

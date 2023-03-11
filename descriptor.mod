@@ -1,6 +1,3 @@
-replace_path="history/states"
-replace_path="history/countries"
-replace_path="localisation"
 replace_path="events"
 version="TAA-dev"
 tags={
@@ -14,4 +11,4 @@ dependencies={
 	"Korean Language (Europa)"
 }
 name="The-Atomic-Age"
-supported_version="1.12.7"
+supported_version="1.12.11"
