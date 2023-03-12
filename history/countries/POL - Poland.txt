@@ -1,0 +1,20 @@
+﻿set_cosmetic_tag = POL_GER
+capital = 10
+set_research_slots = 3
+set_convoys = 10
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1935.9.8"
+	election_frequency = 36
+	elections_allowed = no
+}
+set_popularities = { 
+	nazism = 32
+	fascism = 22
+	absolutism = 19
+	neutrality = 11
+	conservatism = 4
+	communism = 8
+	socialism = 4
+}

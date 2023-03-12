@@ -1,8 +1,8 @@
-CZE_AUS = {
-	color = rgb { 194 198 215 }
-	color_ui = rgb { 255 255 255 }
+POL_GER = {
+	color = rgb { 100 100 100 }
+	color_ui = rgb { 100 100 100 }
 }
-SOV_RUS = {
-	color = rgb { 100 150 255 }
-	color_ui = rgb { 60 105 190 }
+FRA_GER = {
+	color = rgb { 120 120 140 }
+	color_ui = rgb { 120 120 140 }
 }

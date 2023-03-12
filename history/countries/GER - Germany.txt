@@ -1,0 +1,41 @@
+﻿capital = 64
+set_research_slots = 5
+set_convoys = 200
+set_stability = 0.75 
+set_war_support = 0.3
+
+set_politics = {
+	ruling_party = fascism
+	last_election = "1933.3.5"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	democratic = 20
+	fascism = 60
+	communism = 20
+}
+set_autonomy = {
+	target = POL
+	autonomy_state = autonomy_reichskommissariat
+}
+set_autonomy = {
+	target = DEN
+	autonomy_state = autonomy_reichskommissariat
+}
+set_autonomy = {
+	target = HOL
+	autonomy_state = autonomy_reichskommissariat
+}
+set_autonomy = {
+	target = BRG
+	autonomy_state = autonomy_reichskommissariat
+}
+
+create_faction = 추축국
+add_to_faction = GER
+
+
+add_ideas = {
+
+}

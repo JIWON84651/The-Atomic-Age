@@ -1,0 +1,1 @@
+BRG	= "countries/western europe.txt"

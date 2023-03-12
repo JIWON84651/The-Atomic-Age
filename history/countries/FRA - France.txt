@@ -1,0 +1,20 @@
+﻿set_cosmetic_tag = FRA_GER
+capital = 16
+
+set_research_slots = 3
+set_stability = 0.5
+add_command_power = 20
+
+set_convoys = 30
+
+
+set_politics = {
+	ruling_party = fascism
+	last_election = "1932.5.1"
+	election_frequency = 48
+	elections_allowed = yes
+}
+set_popularities = {
+	fascism = 80
+	neutrality = 20
+}
